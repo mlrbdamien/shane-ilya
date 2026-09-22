@@ -1,6 +1,6 @@
-# Shane & Ilya · chapitre deux
+# Shane & Ilya · kiss cam
 
-Page de fans non officielle : l'histoire de Shane et Ilya, de Regina 2008 au chalet 2017, et le décompte avant la saison 2 de Heated Rivalry.
+Page de fans non officielle : l'histoire de Shane et Ilya, de Regina 2008 au chalet 2017, billet par billet, et le décompte avant la saison 2 de Heated Rivalry.
 
 Site statique, un seul `index.html`. Aucune image de la série : tout est dessiné en SVG, CSS et canvas.
 
@@ -8,7 +8,7 @@ Site statique, un seul `index.html`. Aucune image de la série : tout est dessin
 
 Le fichier `assets/fond-sonore.mp3` est lu en boucle quand on touche « Écouter en lisant » (Safari sur iPhone interdit le son automatique). Tant que le fichier n'existe pas, les boutons de son restent masqués.
 
-Pour changer de musique, remplacer ce fichier en gardant le même nom.
+Pour changer de musique, remplacer ce fichier en gardant le même nom. N'y mettre qu'une musique qu'on a le droit de rediffuser (libre de droits, licence Creative Commons compatible, ou composée pour l'occasion) : le dépôt est public et le fichier est téléchargeable par n'importe qui.
 
 ## Changer la date
 
