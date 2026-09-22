@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="s" cx=".3" cy=".42" r=".55"><stop offset="0" stop-color="#3B6FE0" stop-opacity=".75"/><stop offset="1" stop-color="#3B6FE0" stop-opacity="0"/></radialGradient>
+    <radialGradient id="i" cx=".7" cy=".58" r=".55"><stop offset="0" stop-color="#E03A4E" stop-opacity=".7"/><stop offset="1" stop-color="#E03A4E" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g" cx=".5" cy=".5" r=".3"><stop offset="0" stop-color="#F6C177" stop-opacity=".55"/><stop offset="1" stop-color="#F6C177" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="#0A0F1E"/>
+  <rect width="512" height="512" fill="url(#s)"/><rect width="512" height="512" fill="url(#i)"/><rect width="512" height="512" fill="url(#g)"/>
+  <text x="170" y="300" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-style="italic" font-weight="600" font-size="240" fill="#F3EAD3">S</text>
+  <text x="342" y="370" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-style="italic" font-weight="600" font-size="240" fill="#F3EAD3">I</text>
+  <text x="258" y="318" text-anchor="middle" font-family="Snell Roundhand,Georgia,serif" font-style="italic" font-size="120" fill="#F6C177">&amp;</text>
+</svg>
